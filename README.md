@@ -1,6 +1,7 @@
 # Q and A chatbot.
 
 Agent bot is a simple question and answering chatbot capable of small talk and answering specific questions dependent on its knowledge base.
+The datasets contain the Chatbot's corpus.
 
 
 ## Main Libraries
